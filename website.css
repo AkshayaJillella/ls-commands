@@ -1,4 +1,12 @@
-marquee{
-    margin: 2px;
-    padding: 20px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color:brown;
+    background-color: white;
+    max-width: 400px;
+    padding: 5px 10px 5px 10px;
+    margin: 0px 300px;
 }
